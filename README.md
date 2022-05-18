@@ -34,4 +34,4 @@ What steps did you take to try and increase model performance? -->
 <!-- Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation. -->
 ## Summary
 
-Overall the attempts at optimization of model performance result in loss of 0.5806 and accuracy of 0.7266. One recommendation for solving this classification problem is to further prune the features that do not correlate with target which will hopefully train the model better.
+Overall the attempts at optimization of model performance result in loss of 0.5806 and accuracy of 0.7266. One recommendation for solving this classification problem is to further prune the features that do not correlate with target which will hopefully train the model better. Changing the machine learning model may also increase accuracy by employing the appropriate algorithms to sort the data.
