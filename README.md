@@ -1,7 +1,7 @@
 <!-- Overview of the analysis: Explain the purpose of this analysis. -->
 ## Overview
 
-The purpose of this project is to utilize and optimize neural network model.
+The purpose of this project is to assist the organization Alphabet Soup in analyzing which non-profit organizations are potential recipients that will effectively utilize monetary donations from Alphabet Soup. To this end, I create and optimize a neural network model for said analysis.
 
 ---
 
