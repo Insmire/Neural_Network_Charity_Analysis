@@ -4,6 +4,17 @@
 The purpose of this project is to assist the organization Alphabet Soup in analyzing which non-profit organizations are potential recipients that will effectively utilize monetary donations from Alphabet Soup. To this end, I create and optimize a neural network model for said analysis.
 
 ---
+## Resources
+
+Data Source:
+
+
+
+Tools:
+
+
+
+---
 
 <!-- Results: Using bulleted lists and images to support your answers, address the following questions.
 
