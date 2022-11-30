@@ -46,3 +46,11 @@ What steps did you take to try and increase model performance? -->
 ## Summary
 
 Overall the attempts at optimization of model performance result in loss of 0.5806 and accuracy of 0.7266. One recommendation for solving this classification problem is to further prune the features that do not correlate with target which will hopefully train the model better. Changing the machine learning model may also increase accuracy by employing the appropriate algorithms to sort the data.
+
+---
+
+### Contact
+
+Email: show.wang94@gmail.com
+
+LinkedIn: [https://www.linkedin.com/in/show-kate-w-802b36168](https://www.linkedin.com/in/show-kate-w-802b36168)
