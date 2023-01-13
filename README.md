@@ -12,7 +12,9 @@ Data Source:
 
 Tools:
 
-
+* scikit-learn
+* TensorFlow
+* Pandas
 
 ---
 
