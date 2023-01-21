@@ -6,9 +6,10 @@ The purpose of this project is to assist the organization Alphabet Soup in analy
 ---
 ## Resources
 
-Data Source:
+Data Source (file too large for upload):
 
-
+* charity_data.csv
+<!-- check for any other files -->
 
 Tools:
 
