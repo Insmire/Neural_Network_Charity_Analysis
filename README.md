@@ -4,20 +4,6 @@
 The purpose of this project is to assist the organization Alphabet Soup in analyzing which non-profit organizations are potential recipients that will effectively utilize monetary donations from Alphabet Soup. To this end, I create and optimize a neural network model for said analysis.
 
 ---
-## Resources
-
-Data Source (file too large for upload):
-
-* charity_data.csv
-<!-- check for any other files -->
-
-Tools:
-
-* scikit-learn
-* TensorFlow
-* Pandas
-
----
 
 <!-- Results: Using bulleted lists and images to support your answers, address the following questions.
 
@@ -49,6 +35,21 @@ What steps did you take to try and increase model performance? -->
 ## Summary
 
 Overall the attempts at optimization of model performance result in loss of 0.5806 and accuracy of 0.7266. One recommendation for solving this classification problem is to further prune the features that do not correlate with the target, which may train the model better. Changing the machine learning model may also increase accuracy by employing the appropriate algorithms to sort the data.
+
+---
+
+## Resources
+
+Data Source (file too large for upload):
+
+* charity_data.csv
+<!-- check for any other files -->
+
+Tools:
+
+* scikit-learn
+* TensorFlow
+* Pandas
 
 ---
 
